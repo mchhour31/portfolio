@@ -6,8 +6,8 @@ const Header = () => {
             <div className="mx-auto max-w-7xl lg:px-8">
                 <div className="relative px-4 sm:px-8 lg:px-20">
                     <div className="mx-auto max-w-7xl lg:max-w-5xl">
-                        <div className="relative flex">
-                            <a aria-label="Home" className="pointer-events-auto text-white" href="/">
+                        <div className="relative flex items-center">
+                            <a aria-label="Home" className="pointer-events-auto text-white font-medium" href="/">
                                 Home
                             </a>
                             <div className="flex flex-1 justify-end md:justify-center">
