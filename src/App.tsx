@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 // import Container from './components/Container';
 import Header from './components/Header';
-import Introduction from './components/Introduction.jsx';
+import Introduction from './components/Introduction';
 
 
 function App() {
